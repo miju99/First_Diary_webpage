@@ -14,7 +14,7 @@
 - **데이터 저장 및 불러오기 (Save & Import)** : 작성한 데이터를 json 파일로 저장하고 다시 불러올 수 있습니다.
 
 ## 라이브 시연 링크 (Live Demo Link)
-[내 웹사이트 구경하기](https://miju99.github.io/First_Diary_webpage/)
+[내 웹사이트 구경하기](https://miju99.github.io/First_Diary_webpage/?v=2)
 
 ## 사용 기술
 - HTML5
