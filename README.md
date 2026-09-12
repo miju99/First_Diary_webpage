@@ -19,3 +19,13 @@
 ## 사용 기술
 - HTML5
 - Collaborated with: Gemini (AI 보조 코딩)
+
+## 이미지
+<img src="https://github.com/user-attachments/assets/655c23a1-51bf-495a-9b68-b11569fd7b5c" width="500">
+- 월 별 달력
+<img src="https://github.com/user-attachments/assets/7d1fb324-c97b-49d0-a89a-120fcacf6d45" width="500">
+- 원형 시간표
+<img src="https://github.com/user-attachments/assets/7deb3403-31c1-4392-a433-2a57cffaf327" width="500">
+- TO DO LIST
+<img src="https://github.com/user-attachments/assets/ff2b2234-4da8-4bba-9130-629794b9d072" width="500">
+- 소요 시간 계산기 및 일정 등록 매트릭스
