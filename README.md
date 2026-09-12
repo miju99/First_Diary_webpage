@@ -18,7 +18,7 @@
 
 ## 사용 기술
 - HTML5
-- Collaborated with: Gemini (AI 보조 코딩)
+- Collaborated with : Gemini (AI 보조 코딩)
 
 ## 이미지
 <img src="https://github.com/user-attachments/assets/655c23a1-51bf-495a-9b68-b11569fd7b5c" width="500">
