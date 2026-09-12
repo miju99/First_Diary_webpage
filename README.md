@@ -23,6 +23,9 @@
 ## 업데이트 로그
 - 달력 일정 관리 개선 : 달력에서 직접 일정을 삭제할 수 있으며, 삭제 시 오늘의 태스크 및 24시간 타임 버퍼 계산기와 실시간 동기화되도록 수정
 - 항목 수정 기능 추가 : 이 달의 목표, 버퍼 계산기, 태스크 분류 등 등록된 모든 일정과 항목을 자유롭게 수정할 수 있는 편집 기능 추가
+- To Do List 탭 및 관리 기능 추가: 카테고리별 탭 생성, 탭 이름 수정, 탭 간 드래그 앤 드롭 순서 변경 기능 구현
+- 중앙 팝업 모달 도입: 브라우저 기본 창 대신 화면 정중앙에 깔끔하게 뜨는 모달 팝업 창을 통해 항목 추가 및 수정 가능
+- D-Day 추가: 달력 상단에 주요 D-Day 일정과 남은 일수(D-Day, D-N)를 화면 너비에 맞춰 최소 3개 이상 한 줄에 나란히 표시되도록 구현
 
 ## 이미지
 <img src="https://github.com/user-attachments/assets/655c23a1-51bf-495a-9b68-b11569fd7b5c" width="500">
@@ -33,3 +36,5 @@
 - TO DO LIST
 <img src="https://github.com/user-attachments/assets/ff2b2234-4da8-4bba-9130-629794b9d072" width="500">
 - 소요 시간 계산기 및 일정 등록 매트릭스
+<img src="https://github.com/user-attachments/assets/fd934b36-335a-4e50-bd29-f8cb3b0032cf" width="500">
+- D-Day
